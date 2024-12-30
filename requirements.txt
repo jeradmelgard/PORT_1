@@ -22,7 +22,7 @@ ipython==8.16.1
 ipython-genutils==0.2.0
 itsdangerous==2.2.0
 jupyter_client==7.4.9
-jupyterlab==4.1.6
+jupyterlab==4.3
 kiwisolver==1.4.5
 lxml==5.2.2
 matplotlib==3.7.1

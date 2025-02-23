@@ -191,6 +191,6 @@ widgetsnbextension==4.0.13
 wurlitzer==3.1.1
 xxhash==3.5.0
 yellowbrick==1.5
-yfinance==0.2.40
+yfinance==0.2.54
 zipp==3.20.1
 zstandard==0.23.0

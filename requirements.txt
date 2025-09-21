@@ -100,13 +100,13 @@ nest_asyncio==1.6.0
 notebook==7.2.2
 notebook_shim==0.2.4
 numba==0.60.0
-numpy==2.2.6
+numpy>=2.2.6
 oauthlib==3.2.2
 orjson==3.10.13
 overrides==7.7.0
 packaging==24.1
 pamela==1.2.0
-pandas==2.3.2
+pandas>=2.3.2
 pandocfilters==1.5.0
 parso==0.8.4
 patsy==1.0.1

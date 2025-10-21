@@ -1,1 +1,1 @@
-https://hub.2i2c.mybinder.org/user/jeradmelgard-port_1-h8owd2rr/doc/tree/GIT_HUB_CAPM%20.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeradmelgard/PORT_1/main?urlpath=%2Fdoc%2Ftree%2FGIT_HUB_CAPM.ipynb)
